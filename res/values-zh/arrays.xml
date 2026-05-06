@@ -5,11 +5,6 @@
         <item>引用</item>
         <item>书签和引用</item>
     </string-array>
-    <string-array name="eink_adaptation_str">
-        <item>否</item>
-        <item>黑白墨水屏</item>
-        <item>彩色墨水屏</item>
-    </string-array>
     <integer-array name="marker_typesint">
         <item>0</item>
         <item>1</item>
@@ -697,14 +692,6 @@
         <item>配色方案 3</item>
         <item>配色方案 4</item>
     </string-array>
-    <string-array name="settings_library_fileage">
-        <item>@string/dialog_library_filedate_1week</item>
-        <item>@string/dialog_library_filedate_2week</item>
-        <item>@string/dialog_library_filedate_month</item>
-        <item>@string/dialog_library_filedate_3month</item>
-        <item>@string/dialog_library_filedate_6month</item>
-        <item>@string/dialog_library_filedate_year</item>
-    </string-array>
     <integer-array name="settings_manage_backint">
         <item>6</item>
         <item>0</item>
@@ -932,21 +919,6 @@
         <item>7</item>
         <item>8</item>
         <item>9</item>
-    </string-array>
-    <integer-array name="settings_temperaturebacklightint_onyx">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
-    <string-array name="settings_temperaturebacklightleftstr_onyx">
-        <item>否</item>
-        <item>亮度</item>
-        <item>色温</item>
-    </string-array>
-    <string-array name="settings_temperaturebacklightrightstr_onyx">
-        <item>否</item>
-        <item>色温</item>
-        <item>亮度</item>
     </string-array>
     <string-array name="ttsvoices_unavailablestr">
         <item>语音不可用</item>

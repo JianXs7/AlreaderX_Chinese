@@ -142,8 +142,6 @@
     <string name="dialog_library_booksforcounters">书籍：</string>
     <string name="dialog_library_cleardb">清除数据库</string>
     <string name="dialog_library_clearfilters">清除筛选</string>
-    <string name="dialog_library_filterall">筛选</string>
-    <string name="dialog_library_filterall_hint">设置/清除筛选：语言、分类、日期等</string>
     <string name="dialog_library_forcounters">总计:</string>
     <string name="dialog_library_ganres">筛选：分类</string>
     <string name="dialog_library_ganres_hint">选择标签</string>
@@ -370,7 +368,6 @@
     <string name="message_downloadbook_ok">下载成功</string>
     <string name="message_downloadbook_start">下载开始！</string>
     <string name="message_edit_empty_string">点击这里编辑</string>
-    <string name="message_error_check_version">检查更新失败，可能无网络连接或网站无法访问</string>
     <string name="message_error_find">搜索出错</string>
     <string name="message_error_find_nothing">结果为空</string>
     <string name="message_error_nextsearch">已无更多结果</string>
@@ -451,7 +448,6 @@
     <string name="openfilesettings_showmetainfo">显示元数据</string>
     <string name="openfilesettings_showtile">平铺</string>
     <string name="openfilesettings_sortdate">按文件日期</string>
-    <string name="openfilesettings_sort">排序</string>
     <string name="openfilesettings_sortname">按名称</string>
     <string name="openfilesettings_sortreverse">反向排序</string>
     <string name="openfilesettings_sortsize">按大小</string>
@@ -556,7 +552,6 @@
     <string name="setting_common_onyxeink_refreshrate">刷新</string>
     <string name="setting_common_onyxeink_refreshresume">返回应用后强制刷新</string>
     <string name="setting_common_onyxeink_regal">使用Regal刷新</string>
-    <string name="setting_common_onyxeink_usecoverasscreensaver">使用封面作为屏保（实验性，取决于固件）</string>
     <string name="setting_common_onyxrotateforsystem">方向不跟随系统</string>
     <string name="setting_common_opendialogs">书籍打开方式</string>
     <string name="setting_common_opendialogs_taps">点击行为</string>
