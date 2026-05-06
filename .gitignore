@@ -2,6 +2,10 @@
 *.apk
 build/
 
+# Signing
+*.jks
+*.keystore
+
 # IDE
 .idea/
 *.iml
