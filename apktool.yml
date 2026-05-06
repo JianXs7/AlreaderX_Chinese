@@ -1,0 +1,18 @@
+version: 3.0.2
+apkFileName: AlReaderExt_android_lastAPI15.apk
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: 15
+  targetSdkVersion: 33
+versionInfo:
+  versionCode: 2306231
+  versionName: 1.07
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- jpg
+- mp3
+- png
